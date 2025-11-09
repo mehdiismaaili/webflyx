@@ -2,3 +2,4 @@
 * "A Great Man Dosen't Seek To Lead. He's Called To It."
 * "An Animal Caught In A Trap Will Gnaw Off It's Own Leg To Escape. What Will You Do?"
 * "When Is A Gift Not A Gift?"
+* "The spice must flow."
